@@ -1,13 +1,13 @@
 {
-  "stage_name": "Stage 01 - too easy?",
-  "name": "Stage 01 - First Steps",
+  "stage_name": "Stage 1 - curiousity kills cat",
+  "name": "Stage 1 - First Steps",
   "start_position": [
     4,
     1
   ],
   "matrix": [
-    [1,1,1,1,1,1,1,1],
-    [1,1,1,1,1,1,1,1],
+    [2,"C",2,"C",2,"C",2,"C"],
+    ["C",2,"C",2,"C",2,"C",2],
     [1,1,1,1,1,1,1,1],
     [1,1,1,1,1,1,"G",1],
     [1,1,1,1,1,1,1,1]
