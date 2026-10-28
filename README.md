@@ -127,5 +127,3 @@ Các thuật toán được hỗ trợ gồm:
 - **DFS (Depth-First Search):** Tìm kiếm theo chiều sâu.
 - **UCS (Uniform-Cost Search):** Tìm kiếm theo chi phí đồng nhất.
 - **A\* (A-Star):** Thuật toán tìm kiếm có sử dụng hàm heuristic để định hướng quá trình tìm kiếm.
-
-Ngoài ra, dự án có thể mở rộng với các thuật toán tìm kiếm khác tùy theo phạm vi triển khai của nhóm.
