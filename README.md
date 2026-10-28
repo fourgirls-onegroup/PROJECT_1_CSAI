@@ -30,7 +30,7 @@ Các màn chơi cơ bản, giúp người chơi làm quen với những cơ ch�
 * Nhiều hướng di chuyển và lựa chọn đường đi.
 * Yêu cầu người chơi cân nhắc và lựa chọn tuyến đường an toàn.
 
-### HARD (Màn 9–12)
+### DIFFICULT (Màn 9–12)
 
 Các màn chơi nâng cao, yêu cầu người chơi vận dụng và kết hợp nhiều cơ chế của trò chơi để hoàn thành màn chơi.
 
