@@ -10,43 +10,36 @@ Trò chơi được xây dựng bằng Python và thư viện Ursina Engine, đ�
 
 Các màn chơi được chia thành 3 mức độ:
 
-***EASY (Màn 1–4)***
+### EASY (Màn 1–4)
 
-* Các màn chơi cơ bản, được thiết kế để người chơi làm quen với:
+Các màn chơi cơ bản, giúp người chơi làm quen với những cơ chế chính của trò chơi:
 
-* Cách điều khiển khối.
-
+* Cách điều khiển và di chuyển khối.
 * Các trạng thái của khối.
+* Luật di chuyển và điều kiện hợp lệ.
+* Cách sử dụng các công tắc để mở cầu.
+* Cơ chế ô gạch có thể bị vỡ.
+* Cách xác định và tìm đường đến ô đích.
 
-* Luật di chuyển.
+### NORMAL (Màn 5–8)
 
-* Cách tìm đường đến ô đích.
+Độ khó được nâng lên với sự kết hợp của nhiều cơ chế và yêu cầu người chơi đưa ra lựa chọn hợp lý:
 
-***NORMAL (Màn 5–8)***
-
-* Độ khó được tăng lên và bắt đầu xuất hiện nhiều cơ chế đặc biệt:
-
-* Công tắc mở cầu.
-
+* Công tắc điều khiển cầu.
 * Ô gạch có thể bị vỡ.
+* Nhiều hướng di chuyển và lựa chọn đường đi.
+* Yêu cầu người chơi cân nhắc và lựa chọn tuyến đường an toàn.
 
-* Nhiều hướng di chuyển khác nhau.
+### HARD (Màn 9–12)
 
-* Yêu cầu người chơi lựa chọn đường đi an toàn.
+Các màn chơi nâng cao, yêu cầu người chơi vận dụng và kết hợp nhiều cơ chế của trò chơi để hoàn thành màn chơi.
 
-***HARD (Màn 9–12)***
+**Đặc điểm:**
 
-* Các màn chơi nâng cao, kết hợp nhiều cơ chế của trò chơi.
-
-***Đặc điểm:***
-
-* Kết hợp nhiều loại cơ chế trong cùng một màn.
-
-* Có ít đường đi an toàn.
-
-* Yêu cầu lập kế hoạch nhiều bước.
-
-* Người chơi cần tính toán chính xác trạng thái và vị trí của khối trước mỗi bước di chuyển.
+* Kết hợp nhiều loại cơ chế trong cùng một màn chơi.
+* Số lượng đường đi an toàn bị hạn chế.
+* Yêu cầu lập kế hoạch và dự đoán nhiều bước di chuyển.
+* Người chơi phải tính toán chính xác trạng thái và vị trí của khối trước mỗi bước đi.
 
 # 3. Yêu cầu hệ thống
 
@@ -56,11 +49,9 @@ Python 3.13.0
 
 ## 3.2. Thư viện
 
-* Các thư viện cần thiết được liệt kê trong file: ***requirements.txt***
-
-* Thư viện chính được sử dụng:
-
-* ursina == 8.3.0
+- Các thư viện cần thiết được liệt kê trong file **requirements.txt**.
+- Thư viện chính được sử dụng:
+  - **Ursina == 8.3.0**
 
 # 4. Cài đặt
 
@@ -70,9 +61,7 @@ Python 3.13.0
 
 - Các file bản đồ (.json).
 
-- Hình ảnh nền.
-
-- Các tài nguyên cần thiết khác.
+- Tài nguyên hình ảnh và font chữ: Bao gồm file hình ảnh nền `.jpg` và các file font chữ `.ttf` được sử dụng trong trò chơi.
 
 - File requirements.txt.
 
