@@ -110,7 +110,7 @@ Người chơi có thể sử dụng một trong hai cách sau để di chuyển
 
 Mỗi lần di chuyển sẽ làm thay đổi vị trí và trạng thái của khối.
 
-= Mục tiêu của người chơi là đưa khối đến ô đích (Goal) và đặt khối ở trạng thái đứng để hoàn thành màn chơi.
+- Mục tiêu của người chơi là đưa khối đến ô đích (Goal) và đặt khối ở trạng thái đứng để hoàn thành màn chơi.
 
 ## 6.2. Điều khiển khi khối bị tách
 
